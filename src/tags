@@ -1,0 +1,24 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_OUTPUT_FILESEP	slash	/slash or backslash/
+!_TAG_OUTPUT_MODE	u-ctags	/u-ctags or e-ctags/
+!_TAG_PROGRAM_AUTHOR	Universal Ctags Team	//
+!_TAG_PROGRAM_NAME	Universal Ctags	/Derived from Exuberant Ctags/
+!_TAG_PROGRAM_URL	https://ctags.io/	/official site/
+!_TAG_PROGRAM_VERSION	0.0.0	/e216bb4/
+App	App.js	/^class App extends React.Component {$/;"	c
+App	App2.js	/^class App extends React.Component {$/;"	c
+Food	App2.js	/^function Food({ name, picture, rating }) {$/;"	f
+Movie	movie.js	/^function Movie({ id, year, title, summary, poster }) {$/;"	f
+bar	movie.js	/^div#foo$2>div.bar$/;"	c	class:div#foo$2
+foodILike	App2.js	/^const foodILike = [$/;"	C
+id	movie.js	/^  id: PropTypes.number.isRequired,$/;"	p	class:div#foo$2.bar
+name	App2.js	/^  name: PropTypes.string.isRequired,$/;"	p	class:Food.propTypes
+picture	App2.js	/^  picture: PropTypes.string.isRequired,$/;"	p	class:Food.propTypes
+poster	movie.js	/^  poster: PropTypes.string.isRequired,$/;"	p	class:div#foo$2.bar
+propTypes	App2.js	/^Food.propTypes = {$/;"	c	class:Food
+rating	App2.js	/^  rating: PropTypes.number.isRequired,$/;"	p	class:Food.propTypes
+reportWebVitals	reportWebVitals.js	/^const reportWebVitals = onPerfEntry => {$/;"	C
+summary	movie.js	/^  summary: PropTypes.string.isRequired,$/;"	p	class:div#foo$2.bar
+title	movie.js	/^  title: PropTypes.string.isRequired,$/;"	p	class:div#foo$2.bar
+year	movie.js	/^  year: PropTypes.number.isRequired,$/;"	p	class:div#foo$2.bar
